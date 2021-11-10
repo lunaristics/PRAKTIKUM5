@@ -1,0 +1,48 @@
+.box1 {
+    background-color: pink;
+    border: 5px solid black;
+    text-align: justify;
+    height: 50px;
+    padding: 7px;
+    margin: 5px;
+}
+.box2 {
+    background-color: lightskyblue;
+    border: 5px solid black;
+    text-align: justify;
+    height: 150px;
+    padding: 7px;
+    margin: 5px;
+    width: 20%;
+    float: left;
+}
+.box3 {
+    background-color: lightyellow;
+    border: 5px solid black;
+    text-align: justify;
+    height: 150px;
+    padding: 7px;
+    margin: 5px;
+    width: 75%;
+    float: left;
+}
+.box4 {
+    background-color: lightskyblue;
+    border: 5px solid black;
+    text-align: justify;
+    height: 150px;
+    padding: 7px;
+    margin: 5px;
+    width: 20%;
+    float: left;
+}
+.box5 {
+    background-color: lightyellow;
+    border: 5px solid black;
+    text-align: justify;
+    height: 150px;
+    padding: 7px;
+    margin: 5px;
+    width: 75%;
+    float: left;
+}
